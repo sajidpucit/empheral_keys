@@ -1,0 +1,4 @@
+# The protocol and evaluation use only the Python standard library.
+# These are needed only to regenerate the figures.
+matplotlib>=3.5
+numpy>=1.21

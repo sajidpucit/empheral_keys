@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Bloom-Filter-Based Ephemeral Key Agreement for Bluetooth LE Ad Hoc Networks"
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2026-10-16
+authors:
+  - family-names: Sajid
+    given-names: Muhammad
+  - family-names: Gillani
+    given-names: Saira Andleeb
+  - family-names: Shah
+    given-names: Peer Azmat
+  - family-names: Ehsan
+    given-names: Muhammad Khurram
+  - family-names: Ahmed
+    given-names: Shafiq
+  - family-names: Ali
+    given-names: Hassan Osman
+preferred-citation:
+  type: article
+  title: "Bloom-Filter-Based Ephemeral Key Agreement for Bluetooth LE Ad Hoc Networks"
+  year: 2026
+  authors:
+    - family-names: Sajid
+      given-names: Muhammad
+    - family-names: Gillani
+      given-names: Saira Andleeb
+    - family-names: Shah
+      given-names: Peer Azmat
+    - family-names: Ehsan
+      given-names: Muhammad Khurram
+    - family-names: Ahmed
+      given-names: Shafiq
+    - family-names: Ali
+      given-names: Hassan Osman
